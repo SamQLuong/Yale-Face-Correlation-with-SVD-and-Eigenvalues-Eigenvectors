@@ -62,7 +62,7 @@ Lastly, the resulting graph of the percent variance of the first six SVD modes i
 
 ![Figure 7](https://github.com/SamQLuong/Yale-Face-Correlation-with-SVD-and-Eigenvalues-Eigenvectors/blob/main/Percent%20Variance.png)
 
-Figure 7: The percent variance graph of the first six SVD modes. Notice the face decrease of percent variance as we move to each mode.
+Figure 7: The percent variance graph of the first six SVD modes. Notice the decrease of percent variance as we move to each mode.
 
 ## Section 5 - Conclusion
 
