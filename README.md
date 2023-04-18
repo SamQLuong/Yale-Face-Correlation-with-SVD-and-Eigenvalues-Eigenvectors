@@ -30,11 +30,25 @@ Finally, the assignment asks to find the percent variance of the first 6 SVD mod
 
 The correlation results for the 100 by 100 matrix and the 10 by 10 matrix are shown in Figures 1 and 2. 
 
-For the most correlated images, we can see that images 87 and 89 are the most correlated due to the similar lighting showing the same features. Also, we can see that the most uncorrelated images are images 1 and 65 because Image 65 is an unknown image that doesn’t look like a face at all. Therefore, there are no features that are similar to Image 65.
+![Figure 1](https://github.com/SamQLuong/Yale-Face-Correlation-with-SVD-and-Eigenvalues-Eigenvectors/blob/main/100%20by%20100%20Correlation.png)
 
-The first six eigenvectors and the first six principal components are in Figures 4 and 5. Then the resulting absolute norm of difference is about 0 between the first eigenvector and the first principal components. We know that this is correct since we want to show that the methods output similar results
+![Figure 2](https://github.com/SamQLuong/Yale-Face-Correlation-with-SVD-and-Eigenvalues-Eigenvectors/blob/main/10%20by%2010%20Correlation.png)
 
-Lastly, the resulting graph of the percent variance of the first six SVD modes is shown in Figure 6. We can see that the first SVD mode has the highest percent variance which is around 75%. Then, the percent variance decreases exponentially as we go along the SVD modes.
+For the most correlated images, we can see that images 87 and 89 are the most correlated due to the similar lighting showing the same features in Figure 3. Also, we can see that the most uncorrelated images are images 1 and 65 because Image 65 is an unknown image that doesn’t look like a face at all in Figure 4. Therefore, there are no features that are similar to Image 65.
+
+![Figure 3](https://github.com/SamQLuong/Yale-Face-Correlation-with-SVD-and-Eigenvalues-Eigenvectors/blob/main/Most%20Correlated.png)
+
+![Figure 4](https://github.com/SamQLuong/Yale-Face-Correlation-with-SVD-and-Eigenvalues-Eigenvectors/blob/main/Least%20Correlated.png)
+
+The first six eigenvectors and the first six principal components are in Figures 5 and 6. Then the resulting absolute norm of difference is about 0 between the first eigenvector and the first principal components. We know that this is correct since we want to show that the methods output similar results
+
+![Figure 5](https://github.com/SamQLuong/Yale-Face-Correlation-with-SVD-and-Eigenvalues-Eigenvectors/blob/main/Eigenvalues.png)
+
+![Figure 6](https://github.com/SamQLuong/Yale-Face-Correlation-with-SVD-and-Eigenvalues-Eigenvectors/blob/main/Least%20Correlated.png)
+
+Lastly, the resulting graph of the percent variance of the first six SVD modes is shown in Figure 7. We can see that the first SVD mode has the highest percent variance which is around 75%. Then, the percent variance decreases exponentially as we go along the SVD modes.
+
+![Figure 7](https://github.com/SamQLuong/Yale-Face-Correlation-with-SVD-and-Eigenvalues-Eigenvectors/blob/main/Percent%20Variance.png)
 
 ## Section 5 - Conclusion
 
