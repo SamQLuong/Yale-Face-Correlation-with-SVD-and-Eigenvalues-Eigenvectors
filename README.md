@@ -1,4 +1,4 @@
-# Homework-2---Machine-Learning
+# Yale Face Correlation Matrix with SVD and Eigenvalues/Eigenvectors
 
 ## Abstract
 
