@@ -44,7 +44,7 @@ The first six eigenvectors and the first six principal components are in Figures
 
 ![Figure 5](https://github.com/SamQLuong/Yale-Face-Correlation-with-SVD-and-Eigenvalues-Eigenvectors/blob/main/Eigenvalues.png)
 
-![Figure 6](https://github.com/SamQLuong/Yale-Face-Correlation-with-SVD-and-Eigenvalues-Eigenvectors/blob/main/Least%20Correlated.png)
+![Figure 6](https://github.com/SamQLuong/Yale-Face-Correlation-with-SVD-and-Eigenvalues-Eigenvectors/blob/main/SVD%20prinipal.png)
 
 Lastly, the resulting graph of the percent variance of the first six SVD modes is shown in Figure 7. We can see that the first SVD mode has the highest percent variance which is around 75%. Then, the percent variance decreases exponentially as we go along the SVD modes.
 
